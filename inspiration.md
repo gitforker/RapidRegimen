@@ -1,5 +1,8 @@
 # Consider basing this on / using some of the following projects/components..
 
+## USSD support by VuMi
+<http://vumi.org/features/>
+
 ## Motech's pillreminder demo on GitHub
 <https://github.com/motech/pill-reminder-demo>
 
